@@ -19,6 +19,7 @@ my feature 3
 >>>>>>> myfeature
 releasebranchs 1
 
+<<<<<<< HEAD
 =======
 develop 1
 develop 2
@@ -28,4 +29,9 @@ featurebranches 2
 featurebranches 3
 featurebranches 4
 >>>>>>> featurebranches
+=======
+myfeature 4
+myfeature 5
+myfeature 6
+>>>>>>> myfeature
 
