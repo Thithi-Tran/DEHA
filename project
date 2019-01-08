@@ -29,9 +29,12 @@ featurebranches 2
 featurebranches 3
 featurebranches 4
 >>>>>>> featurebranches
+<<<<<<< HEAD
 =======
 myfeature 4
 myfeature 5
 myfeature 6
 >>>>>>> myfeature
+=======
+>>>>>>> develop
 
