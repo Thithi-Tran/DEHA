@@ -1,6 +1,7 @@
 Master
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 develop 1
 develop 2
 develop 3
@@ -18,4 +19,13 @@ my feature 3
 >>>>>>> myfeature
 releasebranchs 1
 
+=======
+develop 1
+develop 2
+develop 3
+featurebranches 1
+featurebranches 2
+featurebranches 3
+featurebranches 4
+>>>>>>> featurebranches
 
