@@ -1,5 +1,6 @@
 Master
 <<<<<<< HEAD
+<<<<<<< HEAD
 develop 1
 develop 2
 develop 3
@@ -8,3 +9,10 @@ hotfixes 1
 hotfixes 2
 >>>>>>> hotfixes
 develop 4
+=======
+my feature 1
+my feature 2
+my feature 3
+
+
+>>>>>>> myfeature
